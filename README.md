@@ -28,6 +28,7 @@ HTML5
 CSS3
 Figma
 Linux
+
 Connect with Me:
 
 LinkedIn (https://www.linkedin.com/in/neo-mathe-4396271a1/)
